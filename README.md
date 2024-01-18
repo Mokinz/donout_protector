@@ -2,17 +2,19 @@
 
 TL/DR: Small python script that locks your screen as you go afk
 
-As I was bored at worked I started a small pyhon project.
+As I was bored at work I started a small pyhon project.
 
 In our company whenever sombody does not lock their laptop, anybody has a right to send an email to all employees, that afk person will bring donuts to office soon.
 Of course it is a security issue and I am always stressed about it. So I got an idea - create a script that checks if I am in front of the laptop and when not - it locks it! Simple enough.
 
-So I managed to programm such thing and for now it has main funcionality but it's not polished yet. I plan to develop this project only when I am bored at work and feel like it.
+I managed to programm such thing and for now it has main funcionality but it's not polished yet. I plan to develop this project only when I am bored at work and feel like it.
 
 Program works like this:
 
-Step 1. Run a program through console 
+Step 1. Run a program through console.
+
 Step 2. GUI opens up. Click on Run script.
+
 Step 3. Now, every 5 seconds prgoram looks through your camera in laptop and checks if you're looking towards it. If you're head is turned around or your not in the camera frame then scrpt locks the screen and turns off.
 
 That's all!
